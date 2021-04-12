@@ -1,0 +1,2 @@
+# SwitchMode
+[(Light.png)]
